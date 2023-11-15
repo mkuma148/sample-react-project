@@ -1,3 +1,3 @@
 # sample-react-project
 sample-react-project
-Author - Mukesh Kumar
+<h1>Author - Mukesh Kumar</h1>
